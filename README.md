@@ -1,5 +1,11 @@
-### Hi there 👋
+### Buenas, soy Oriol 👋
+Estoy estudiando Grado Superior de DAM.
 
+### Contacta conmigo en:
+- [Gmail](orsaca00@gmail.com)
+
+### Mis proyectos:
+- [TopTrailApp](https://gitlab.com/grupo1920138/toptrail)
 <!--
 **oriolsalvador/oriolsalvador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
