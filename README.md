@@ -2,7 +2,7 @@
 Estoy estudiando Grado Superior de DAM.
 
 ### Contacta conmigo en:
-- [Gmail](orsaca00@gmail.com)
+- (orsaca00@gmail.com)
 
 ## 🛠 Skill set
 ### Frontend
