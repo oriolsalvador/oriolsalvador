@@ -16,6 +16,7 @@ Estoy estudiando Grado Superior de DAM.
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0A0A0A)
 ![MySQL](https://img.shields.io/badge/MySQL-08668F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0A0A0A)
 ![MongoDB](https://img.shields.io/badge/MongoDB-17AD55?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0A0A0A)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Mis proyectos:
 - [TopTrailApp](https://gitlab.com/grupo1920138/toptrail)
