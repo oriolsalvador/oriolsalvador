@@ -20,7 +20,12 @@ Estoy estudiando Grado Superior de DAM.
 
 [Unity]
 ### Mis proyectos:
+### Projecte 3
 - [TopTrailApp](https://gitlab.com/grupo1920138/toptrail)
+### Projecte 4
+- [GDD](https://docs.google.com/document/d/1Ysef381u7dEO9kxq0sCM2gER0umntKyIdDsQ0yvWLoM/edit#heading=h.4vmfixy09gv2)
+- [UserGuide](https://docs.google.com/document/d/1_Dm-RopiZ7o8PBSZeRdTgNnu7kzLW7iUl-HlksDAM0o/edit)
+  
 <!--
 **oriolsalvador/oriolsalvador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
