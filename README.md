@@ -25,6 +25,7 @@ Estoy estudiando Grado Superior de DAM.
 ### Projecte 4
 - [GDD](https://docs.google.com/document/d/1Ysef381u7dEO9kxq0sCM2gER0umntKyIdDsQ0yvWLoM/edit#heading=h.4vmfixy09gv2)
 - [UserGuide](https://docs.google.com/document/d/1_Dm-RopiZ7o8PBSZeRdTgNnu7kzLW7iUl-HlksDAM0o/edit)
+-  [Video](https://drive.google.com/file/d/1CP1nw1wEIy4hB0f0AjwmBzUBtw8NzIh1/view?usp=sharing)
   
 <!--
 **oriolsalvador/oriolsalvador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
