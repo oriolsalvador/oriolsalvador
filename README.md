@@ -21,6 +21,10 @@ Estoy estudiando Grado Superior de DAM.
 ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ### Mis proyectos:
+
+### Projecte 1 Aplicació gestió de productes
+- [Vehicles](https://gitlab.com/grup29893740/projecte1_grup2)
+
 ### Projecte 3
 - [TopTrailApp](https://gitlab.com/grupo1920138/toptrail)
 ### Projecte 4
