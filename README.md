@@ -2,7 +2,6 @@
 Estoy estudiando Grado Superior de DAM.
 
 ### Contacta conmigo en:
-- (orsaca00@gmail.com)
 - [![Email](https://img.shields.io/badge/orsaca00@gmail.com-email_personal_-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:orsaca00@gmail.com)
 </br>
 
@@ -25,7 +24,10 @@ Estoy estudiando Grado Superior de DAM.
 ### Mis proyectos:
 
 ### Projecte 1 Aplicació gestió de productes
-- [Vehicles](https://gitlab.com/grup29893740/projecte1_grup2)
+- [Gitlab Vehicles](https://gitlab.com/grup29893740/projecte1_grup2)
+- [Memòria](https://docs.google.com/document/d/1mUtp5EAwOg3LH_qftaiiRvomPukgECjNtxn3YtMifZ0/edit?tab=t.0)
+- [Executable]()
+- [BBDD script](https://drive.google.com/drive/u/3/folders/17MVkZRGlZQbUqhwzfpbGO45PTSMqB7yb)
 
 ### Projecte 3
 - [TopTrailApp](https://gitlab.com/grupo1920138/toptrail)
