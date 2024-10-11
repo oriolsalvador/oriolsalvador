@@ -3,7 +3,7 @@ Estoy estudiando Grado Superior de DAM.
 
 ### Contacta conmigo en:
 - (orsaca00@gmail.com)
-- [![Email](https://img.shields.io/badge/orsaca00@gmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:orsaca00@gmail.com)
+- [![Email](https://img.shields.io/badge/orsaca00@gmail.com-email_personal_-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:orsaca00@gmail.com)
 </br>
 
 ## 🛠 Skill set
