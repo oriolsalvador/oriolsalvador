@@ -17,8 +17,9 @@ Estoy estudiando Grado Superior de DAM.
 ![MySQL](https://img.shields.io/badge/MySQL-08668F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0A0A0A)
 ![MongoDB](https://img.shields.io/badge/MongoDB-17AD55?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0A0A0A)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Unity](https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
 
-[Unity]
 ### Mis proyectos:
 ### Projecte 3
 - [TopTrailApp](https://gitlab.com/grupo1920138/toptrail)
