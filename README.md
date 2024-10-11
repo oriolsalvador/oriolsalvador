@@ -3,8 +3,8 @@ Estoy estudiando Grado Superior de DAM.
 
 ### Contacta conmigo en:
 - [![Email](https://img.shields.io/badge/orsaca00@gmail.com-email_personal_-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:orsaca00@gmail.com)
+- [CV](https://europa.eu/europass/eportfolio/screen/share/d0c5e6f1-79a2-45a3-b2ba-32d4fd63e408?lang=es)
 </br>
-[CV](https://europa.eu/europass/eportfolio/screen/share/d0c5e6f1-79a2-45a3-b2ba-32d4fd63e408?lang=es)
 
 ## 🛠 Skill set
 ### Frontend
