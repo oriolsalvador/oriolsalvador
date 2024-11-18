@@ -24,7 +24,13 @@ Estoy estudiando Grado Superior de DAM.
 
 ### Mis proyectos:
 
-### Projecte 1 Aplicació gestió de productes
+### Projecte 1 Aplicació gestió de productes v2 (recuperació)
+- [Gitlab Vehicles](https://gitlab.com/salvador.carretero.oriol/projecte1_oriol_salvador)
+- [Memòria](https://docs.google.com/document/d/1b4lNgxgV7mRLfaZpnpdKlnuLguUmfd-PlekVuaBKA6o/edit?tab=t.0)
+- [Executable]()
+- [BBDD script](https://docs.google.com/document/d/1l1FA2zN3AAXvX2ymmnH-Iy7WsaMI58gcM40so6SbLgg/edit?usp=sharing)
+
+### Projecte 1 Aplicació gestió de productes 
 - [Gitlab Vehicles](https://gitlab.com/grup29893740/projecte1_grup2)
 - [Memòria](https://docs.google.com/document/d/1mUtp5EAwOg3LH_qftaiiRvomPukgECjNtxn3YtMifZ0/edit?tab=t.0)
 - [Executable]()
