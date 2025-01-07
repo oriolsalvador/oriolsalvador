@@ -36,6 +36,14 @@ Estoy estudiando Grado Superior de DAM.
 - [Executable]()
 - [BBDD script](https://drive.google.com/drive/u/3/folders/17MVkZRGlZQbUqhwzfpbGO45PTSMqB7yb)
 
+
+### Projecte 2 Aplicació reserva de vehicles CotxesPACO
+- [Gitlab CotxesPACO](https://gitlab.com/cotxespaco/cotxespaco.git)
+- [Memòria](https://docs.google.com/document/d/1HkFJTOvKdjFLU4rybu8vIVNgTxGmRnWU6xnRAIE6nNM/edit?tab=t.0)
+- [Presentació](https://docs.google.com/presentation/d/1uQBj9cPx5cz89hC4crWrgZdXLT_NB_NfaR98X63cpbg/edit#slide=id.g32358d707c4_0_15)
+  
+
+
 ### Projecte 3
 - [TopTrailApp](https://gitlab.com/grupo1920138/toptrail)
 ### Projecte 4
