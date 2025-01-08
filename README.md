@@ -10,7 +10,7 @@ Estoy estudiando Grado Superior de DAM.
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-F16524?style=for-the-badge&logo=html5&logoColor=white&labelColor=0A0A0A)
 ![CSS3](https://img.shields.io/badge/CSS3-2465F1?style=for-the-badge&logo=css3&logoColor=white&labelColor=0A0A0A)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0A0A0A)
+
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-5283A2?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0A0A0A)
@@ -21,6 +21,7 @@ Estoy estudiando Grado Superior de DAM.
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Unity](https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0A0A0A)
 
 ### Mis proyectos:
 
