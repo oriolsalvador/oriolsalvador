@@ -33,7 +33,7 @@ Estoy estudiando Grado Superior de DAM.
 
 
 ### Projecte 2 Aplicació reserva de vehicles CotxesPACO
-- [Gitlab CotxesPACO]([https://gitlab.com/cotxespaco/cotxespaco.git](https://gitlab.com/salvador.carretero.oriol/cotxespacooriolpr2r.git))
+- [Gitlab CotxesPACO]((https://gitlab.com/salvador.carretero.oriol/cotxespacooriolpr2r.git))
 - [Memòria](https://docs.google.com/document/d/1WIg6LeYz9pVQSf9utDhRRYF6hgVdO5dt6i0nkDkN5B0/edit?usp=sharing)
 
   
